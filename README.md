@@ -1,14 +1,14 @@
-### Olá! Eu sou o Kevin Reis 🔥
+### Olá! Eu sou o Kevin Reis, tenho 19 anos e atualmente curso Direito e sou formado em Técnico De TI, joguei futebol em categorias de base até meus 17 e resolvi focar nos meus estudos e atualmente utilizo do meu tempo para desenvolver minhas habilidades em Front-End e Back-End e estudar para a faculdade, gosto de colecionar conhecimentos e experiências e atualmente estou 100% focado no meu crescimento profissional! 🔥
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinreis22/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinreis_03)
 
-## Desenvolvedor e Estudante de Direito
+## Meu Banner
 <img src="https://github.com/KevinReis/KevinReis/blob/main/Mybanner.png">
 
 
-![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinReis&show_icons=true&theme=onedark)
+![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinReis&show_icons=true&theme=onedark&hide=prs,issues,contribs)
 
 ### Tecnologias que estou treinando atualmente 
 
@@ -20,8 +20,7 @@
 <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div> <br>
 
-Estudante de Direito e Formado em Técnico de Informática, amo aprender. Estou aprendendo pouco de muito, em busca do conhecimento.
 
-## Meu Email
 
-kevinreis1@gmail.com
+
+
