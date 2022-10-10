@@ -1,7 +1,12 @@
 ### Olá! Eu sou o Kevin Reis 🔥
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinreis22/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinreis_03)
+
+## Desenvolvedor e Estudante de Direito
+<img src="https://github.com/KevinReis/KevinReis/blob/main/Mybanner.png">
+
 
 ![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinReis&show_icons=true&theme=onedark)
 
