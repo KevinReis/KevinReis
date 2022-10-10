@@ -20,7 +20,7 @@
 <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div> <br>
 
-Estudante de Direito e Formado em Técnico de Informática, amo aprender. Estou aprendendo pouco de muito, para que logo,eu saiba muito de muito.
+Estudante de Direito e Formado em Técnico de Informática, amo aprender. Estou aprendendo pouco de muito, em busca do conhecimento.
 
 ## Meu Email
 
