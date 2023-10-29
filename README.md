@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kevin Reis, tenho 19 anos e atualmente curso Direito e sou formado em Técnico De TI, joguei futebol em categorias de base até meus 17 e resolvi focar nos meus estudos e atualmente utilizo do meu tempo para desenvolver minhas habilidades em Front-End e Back-End e estudar para a faculdade, gosto de colecionar conhecimentos e experiências e atualmente estou 100% focado no meu crescimento profissional! 🔥
+### Olá! atualmente curso Direito e sou formado em Técnico De TI, joguei futebol em categorias de base de futebol até meus 17 e resolvi focar nos meus estudos e atualmente utilizo do meu tempo para desenvolver minhas habilidades e estudar Direito, gosto de colecionar conhecimentos e experiências e atualmente estou 100% focado no meu crescimento profissional! 🔥
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinreis22/)
